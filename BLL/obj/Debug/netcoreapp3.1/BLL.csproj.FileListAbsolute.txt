@@ -1,0 +1,9 @@
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

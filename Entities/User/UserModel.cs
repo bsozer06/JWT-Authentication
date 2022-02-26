@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Text;
 
-namespace UI.Models
+namespace Entities.User
 {
-    public class UserModel
+    public class UserModel: Base
     {
         public string UserName { get; set; }
         public string Password { get; set; }

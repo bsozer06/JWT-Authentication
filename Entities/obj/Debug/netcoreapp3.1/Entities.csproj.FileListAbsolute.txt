@@ -1,0 +1,9 @@
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\burhan\Codes\2022\NetCore\Burhan.JWT.Authentication\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
